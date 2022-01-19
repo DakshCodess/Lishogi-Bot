@@ -1,4 +1,4 @@
-token: "xxxxxxxxxxxxxxxx"    # Lishogi OAuth Token.
+token: "D7Hk9GezFN6RQBWX"    # Lishogi OAuth Token.
 url: "https://lishogi.org/"  # Lishogi base URL.
 
 engine:                      # Engine Settings.
